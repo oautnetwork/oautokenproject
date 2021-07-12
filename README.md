@@ -1,2 +1,2 @@
 # oautokenproject
-Source code for the Obafemi Awolowo University Token
+Source code for the OAUToken for the Tron Blockchain
